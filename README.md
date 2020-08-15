@@ -1,5 +1,6 @@
 # minesweeper-auto
 *Created early 2017*
+
 A script to play Windows Minesweeper using screen capture and automatic mouse actions
 
 ## Instructions
