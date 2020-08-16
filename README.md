@@ -28,3 +28,6 @@ Install the following python libraries:
 3. To auto-play Minesweeper, click on the "Analysis Window" to focus it and press the keyboard button "a", this will turn auto-play mode on (see bottom right of Analysis Window)
 4. The script will keep playing until there are no more 100% moves. You may need to click on random squares to open up possible moves. Not every game is 100% winnable, you may need to play a few games to win, the win rate depends on the difficulty.
 5. End the script forcefully (Ctrl-C) to end the script.
+
+## Screenshots
+![Screenshot 1](https://github.com/borenx1/minesweeper-auto/blob/master/screenshots/1.png?raw=true)
